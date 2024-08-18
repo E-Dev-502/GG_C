@@ -1,0 +1,214 @@
+{
+    "SERVIDORES": {
+        "TMO": {
+            "Nombre_SV": "TMO",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Ftmo.png?alt=media&token=44e2f576-f927-4f02-aace-cd93b579c5ee",
+            "Enlace_SV": "https://visortmo.com/",
+            "Web_Panel": {
+                "url": "https://visortmo.com/populars",
+                "clase_cabeza": "div.element > a",
+                "clase_titulo": "h4.text-truncate",
+                "clase_enlace": "a",
+                "clase_tipo": "span.book-type",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Olympus": {
+            "Nombre_SV": "Olympus",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Folym.png?alt=media&token=d81c9497-127f-4130-80a0-c39ffc1334d1",
+            "Enlace_SV": "https://leerolymp.com/",
+            "Web_Panel": {
+                "url": "https://visortmo.com/populars",
+                "clase_cabeza": "div.element > a",
+                "clase_titulo": "h4.text-truncate",
+                "clase_enlace": "a",
+                "clase_tipo": "span.book-type",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Ikigai": {
+            "Nombre_SV": "Ikigai",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fikigaimangas.png?alt=media&token=a4b0465a-b56a-40b1-afc1-171bca133ab9",
+            "Enlace_SV": "https://ikigaimangas.fraviral.com/",
+            "Web_Panel": {
+                "url": "https://ikigaimangas.fraviral.com/series/?direccion=desc&ordenar=view_count",
+                "clase_cabeza": "ul.grid > li",
+                "clase_titulo": "h2.font-semibold",
+                "clase_enlace": "a",
+                "clase_tipo": "ul.flex li:contains(Comic), ul.flex li:contains(Novela)",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Mangas No Sekai": {
+            "Nombre_SV": "Mangas No Sekai",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fmanganosekai.png?alt=media&token=e204ea6b-8859-4dfa-bd5b-b5468666ec5b",
+            "Enlace_SV": "https://mangasnosekai.com/",
+            "Web_Panel": {
+                "url": "https://mangasnosekai.com/biblioteca/?m_orderby=trending&genre%5B%5D=&status%5B%5D=&exclude_genre%5B%5D=",
+                "clase_cabeza": ".col-12.col-md-3.badge-pos-1",
+                "clase_titulo": "figcaption",
+                "clase_enlace": "a",
+                "clase_tipo": ".badge-custom",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "MangaCrab": {
+            "Nombre_SV": "MangaCrab",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fmangacrab.png?alt=media&token=7f79bbed-22c7-4d99-9c45-364d9cdab7af",
+            "Enlace_SV": "https://wikicrab.xyz/",
+            "Web_Panel": {
+                "url": "https://wikicrab.xyz/biblioteca/?m_orderby=trending",
+                "clase_cabeza": ".col-6.col-md-2.badge-pos-2",
+                "clase_titulo": "div.post-title",
+                "clase_enlace": "a",
+                "clase_tipo": ".manga-title-badges",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Samurai Scan": {
+            "Nombre_SV": "Samurai Scan",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fsamurai.png?alt=media&token=1522cfba-0722-4a9b-bc03-089d6b7edee7",
+            "Enlace_SV": "https://latan.visorsmr.com/",
+            "Web_Panel": {
+                "url": "https://latan.visorsmr.com/leer/?m_orderby=trending",
+                "clase_cabeza": ".col-6.col-md-2.badge-pos-2",
+                "clase_titulo": "div.post-title",
+                "clase_enlace": "a",
+                "clase_tipo": ".manga-title-badges",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "EmperorScan": {
+            "Nombre_SV": "EmperorScan",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Femperorscan.png?alt=media&token=ec42cc4b-e7fd-40db-af57-6e60a34a0b8e",
+            "Enlace_SV": "https://emperormanga.com/",
+            "Web_Panel": {
+                "url": "https://emperormanga.com/manga/?m_orderby=trendingg",
+                "clase_cabeza": ".col-6.col-md-2.badge-pos-2",
+                "clase_titulo": "div.post-title",
+                "clase_enlace": "a",
+                "clase_tipo": ".manga-title-badges",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Lector KNS": {
+            "Nombre_SV": "Lector KNS",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fkns.png?alt=media&token=a272fc42-1178-4242-b188-5ad6c9886cf0",
+            "Enlace_SV": "https://lectorkns.com/",
+            "Web_Panel": {
+                "url": "https://lectorkns.com/biblioteca/?m_orderby=trending",
+                "clase_cabeza": ".col-12.col-md-4.badge-pos-2",
+                "clase_titulo": "div.post-title",
+                "clase_enlace": "a",
+                "clase_tipo": ".manga-title-badges",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Senpai Mangas": {
+            "Nombre_SV": "Senpai Mangas",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fsenpaimangas.png?alt=media&token=788c7b6a-9200-4619-a907-f4f27f84c77b",
+            "Enlace_SV": "https://senpaimangas.online/",
+            "Web_Panel": {
+                "url": "https://senpaimangas.online/manga/",
+                "clase_cabeza": ".listupd .bs",
+                "clase_titulo": "div.tt",
+                "clase_enlace": "a",
+                "clase_tipo": ".novelabel",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Tres Daos": {
+            "Nombre_SV": "Tres Daos",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Ftresdaos.png?alt=media&token=3e78a112-a5e4-483c-add1-fdcdb37dd098",
+            "Enlace_SV": "https://tresdaos.com/",
+            "Web_Panel": {
+                "url": "https://tresdaos.com/manga/",
+                "clase_cabeza": ".listupd .bs",
+                "clase_titulo": "div.tt",
+                "clase_enlace": "a",
+                "clase_tipo": ".novelabel",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "UkiyoToon": {
+            "Nombre_SV": "UkiyoToon",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fukiyotoon.png?alt=media&token=7108e41b-b6a0-4e1e-ab00-72041fac64e8",
+            "Enlace_SV": "https://ukiyotoon.com/",
+            "Web_Panel": {
+                "url": "https://ukiyotoon.com/manga/",
+                "clase_cabeza": ".listupd .bs",
+                "clase_titulo": "div.tt",
+                "clase_enlace": "a",
+                "clase_tipo": ".novelabel",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "LectorMiau": {
+            "Nombre_SV": "LectorMiau",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fmiau.png?alt=media&token=71e80a85-6ad0-4a85-96b8-a4bdedb4fa33",
+            "Enlace_SV": "https://lectormiau.com/",
+            "Web_Panel": {
+                "url": "https://lectormiau.com/manga/",
+                "clase_cabeza": ".listupd .bs",
+                "clase_titulo": "div.tt",
+                "clase_enlace": "a",
+                "clase_tipo": ".novelabel",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Cartel De Manhwas": {
+            "Nombre_SV": "Cartel De Manhwas",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fcartel.png?alt=media&token=bcb8d783-e6cc-4304-b8ee-915c038b1556",
+            "Enlace_SV": "https://carteldemanhwas.com/",
+            "Web_Panel": {
+                "url": "https://carteldemanhwas.com/series/",
+                "clase_cabeza": ".listupd .bs",
+                "clase_titulo": "div.tt",
+                "clase_enlace": "a",
+                "clase_tipo": ".novelabel",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        },
+        "Catharsis": {
+            "Nombre_SV": "Catharsis",
+            "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Fcath.png?alt=media&token=7877d527-03b8-462b-80fc-e22e5d32ff73",
+            "Enlace_SV": "https://catharsisworld.com/",
+            "Web_Panel": {
+                "url": "https://catharsisworld.com/manga/",
+                "clase_cabeza": ".listupd .bs",
+                "clase_titulo": "div.tt",
+                "clase_enlace": "a",
+                "clase_tipo": ".novelabel",
+                "clase_imagen1": "",
+                "clase_imagen2": "",
+                "clase_imagen3": ""
+            }
+        }
+    }
+}
