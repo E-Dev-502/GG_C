@@ -20,7 +20,7 @@
             "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Folym.png?alt=media&token=d81c9497-127f-4130-80a0-c39ffc1334d1",
             "Enlace_SV": "https://leerolymp.com/",
             "Web_Panel": {
-                "url": "https://leerolymp.com/seriess",
+                "url": "https://leerolymp.com/series/",
                 "clase_cabeza": "figure.relative.overflow-hidden.rounded-md",
                 "clase_titulo": "figcaption.font-header",
                 "clase_enlace": "a",
