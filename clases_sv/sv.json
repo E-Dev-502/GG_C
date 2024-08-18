@@ -20,11 +20,11 @@
             "Imagen_SV": "https://firebasestorage.googleapis.com/v0/b/app-nekogg-eth502.appspot.com/o/SERVIDORES_APP%2Folym.png?alt=media&token=d81c9497-127f-4130-80a0-c39ffc1334d1",
             "Enlace_SV": "https://leerolymp.com/",
             "Web_Panel": {
-                "url": "https://visortmo.com/populars",
-                "clase_cabeza": "div.element > a",
-                "clase_titulo": "h4.text-truncate",
+                "url": "https://leerolymp.com/seriess",
+                "clase_cabeza": "figure.relative.overflow-hidden.rounded-md",
+                "clase_titulo": "figcaption.font-header",
                 "clase_enlace": "a",
-                "clase_tipo": "span.book-type",
+                "clase_tipo": "502-DEV",
                 "clase_imagen1": "",
                 "clase_imagen2": "",
                 "clase_imagen3": ""
